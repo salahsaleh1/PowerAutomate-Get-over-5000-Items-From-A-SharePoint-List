@@ -52,8 +52,7 @@ Finally, we want to verify the number of SharePoint list items retrieved. Insert
 ![compose-countItems](https://github.com/user-attachments/assets/f54d03c5-6406-46c5-b67f-f9fb311006d6)
 <br><br><br><br>
 Then add this Power Automate expression to calculate the number of items returned.
-<br><br><br><br><br>
-
+<br>
 `length(outputs('Get_items')?['body/value'])                                         `
 
 <br><br><br>
