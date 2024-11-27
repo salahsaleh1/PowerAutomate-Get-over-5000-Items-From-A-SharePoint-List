@@ -57,5 +57,5 @@ Then add this Power Automate expression to calculate the number of items returne
 
 <br><br><br>
 ### Run The Flow To Get Over 5000 List Items
-<br><br><br><br><br>
+<br>
 <img src="https://github.com/user-attachments/assets/01963926-6f5e-46a7-883a-2c6b08d6a227" alt="Final Compose Outcome" width="700" height="700">
